@@ -13,7 +13,7 @@
 
 <div align="center">
   <!-- Вставь ссылку на загруженное видео ниже вместо 'YOUR_VIDEO_LINK_HERE' -->
-  <video src="YOUR_VIDEO_LINK_HERE" width="80%" controls autoplay loop></video>
+  <video src="https://youtu.be/9dMN_8HOkos?si=C1VJ4I98HKTJTfGx" width="80%" controls autoplay loop></video>
   <br>
   <i>(Experience the intelligence and sleek design of HyperAI)</i>
 </div>
