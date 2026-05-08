@@ -1,8 +1,4 @@
 
-
-https://github.com/user-attachments/assets/225848a2-13dc-404b-a786-54a8318be9aa
-
-
 <div align="center">
   <h1>🚀 HyperAI</h1>
   <p><b>Your new engine for AI and everything code.</b></p>
