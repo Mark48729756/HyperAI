@@ -1,5 +1,9 @@
 
 
+https://github.com/user-attachments/assets/a94f4fa8-0c0d-4268-8db8-a99e6bb1518a
+
+
+
 
 
 <div align="center">
@@ -17,7 +21,7 @@
 
 <div align="center">
   <!-- Вставь ссылку на загруженное видео ниже вместо 'YOUR_VIDEO_LINK_HERE' -->
-  <video src="https://github.com/user-attachments/assets/170d9314-36e4-4eb5-ad43-cffc7641fd5a" width="80%" controls autoplay loop></video>
+  <video src="https://github.com/user-attachments/assets/a94f4fa8-0c0d-4268-8db8-a99e6bb1518a" width="60%" controls autoplay loop></video>
   <br>
   <i>(Experience the intelligence and sleek design of HyperAI)</i>
 </div>
