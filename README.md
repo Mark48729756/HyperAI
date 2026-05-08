@@ -1,4 +1,4 @@
-                                       <img width="115" height="114" alt="logo" src="https://github.com/user-attachments/assets/226c487a-fee0-4ee7-a3bd-89c6c5090ab0" />
+
 
 <div align="center">
   <h1>🚀 HyperAI</h1>
