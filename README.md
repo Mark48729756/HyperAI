@@ -61,7 +61,26 @@ You don't need to build from source to start using HyperAI right now:
 
 ---
 
-<div align="center">
-  <i>Engineered for the future of development.</i><br>
-  <b>HyperAI &copy; 2026</b>
-</div>
+<p align="left">
+<img src="[https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge&logo=opensourceinitiative&logoColor=white](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge&logo=opensourceinitiative&logoColor=white)" alt="MIT License">
+</p>
+Overview
+The MIT License is a short and simple permissive license with conditions only requiring preservation of copyright and license notices. It is designed to encourage innovation by allowing licensed works, modifications, and larger works to be distributed under different terms and even without source code.
+🗝️ Key Permissions
+HyperAI is built to be accessible and versatile. Under this license, you are granted the following rights:
+Commercial Use: You are permitted to use this software and its derivatives for commercial purposes.
+Modification: You have the right to modify the source code and adapt it to your specific needs.
+Distribution: You may distribute the original or modified versions of the software.
+Private Use: You are free to use and modify the software for private, internal projects.
+⚠️ Conditions & Requirements
+To maintain the integrity of the project, the following conditions must be met:
+License and Copyright Notice: A copy of the license and the original copyright notice must be included in all copies or substantial portions of the software.
+🚫 Limitations & Legal Disclaimer
+The software is provided "as is" to protect the creator:
+Liability: The author (Mark48729756) is not liable for any claims, damages, or other liability arising from the use of the software.
+Warranty: There is no warranty of any kind, express or implied, regarding the software’s performance or fitness for a particular purpose.
+<p align="center">
+<i>"Empowering the next generation of developers through open intelligence."</i>
+
+<b>HyperAI Project © 2026</b>
+</p>
