@@ -1,21 +1,35 @@
-MIT License
+---
 
-Copyright (c) 2026 Mark48729756
+## ⚖️ License & Legal Information
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+<p align="left">
+  <a href="./LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="MIT License">
+  </a>
+</p>
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+### The MIT License (MIT)
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+**Copyright (c) 2026 Mark48729756**
+
+This project is officially licensed under the **MIT License**. This is a permissive license that is short and to the point. It lets people do nearly anything they want with your project, including code integration and commercial use, as long as they provide attribution back to you and don’t hold you liable.
+
+> [!TIP]
+> **What this means for you:**
+> - ✅ **Commercial Use:** You can use HyperAI for commercial purposes.
+> - ✅ **Modification:** You can modify the source code to fit your needs.
+> - ✅ **Distribution:** You can share and distribute the software.
+> - ✅ **Private Use:** You can use it privately without disclosing changes.
+> - ⚠️ **Condition:** You must include the original copyright notice and this permission notice in all copies.
+
+---
+
+### 🛡️ Disclaimer
+**THE SOFTWARE IS PROVIDED "AS IS"**, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+---
+
+<p align="center">
+  <i>Engineered with precision for the future of AI development.</i><br>
+  <b>HyperAI Project &copy; 2026</b>
+</p>
